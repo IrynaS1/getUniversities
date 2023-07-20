@@ -1,0 +1,12 @@
+.results {
+	width: 100%;
+}
+
+.results__title {
+	font-size: 40px;
+}
+
+.results__item,
+.results__bad-request {
+	font-size: 30px;
+}

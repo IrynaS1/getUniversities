@@ -1,0 +1,19 @@
+.request {
+	width: 100%;
+	margin-bottom: 50px;
+}
+
+.request__text {
+	font-size: 48px;
+}
+
+.request__input {
+	width: 70%;
+	min-height: 50px;
+	font-size: 30px;
+	border: none;
+}
+
+.request__button {
+	font-size: 38px;
+}
